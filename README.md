@@ -10,7 +10,7 @@ In conjunction with all the linguistic design above, you can use a Python progra
 - Download and install from the official [Python website](https://www.python.org/) if you do not have it already.
 
 ### Install Ghostscript (required for converting the canvas drawings to PNG)
-- Download from the official [Ghostscript website](https://ghostscript.com/).
+- Download from the official [Ghostscript website]([https://ghostscript.com/](https://www.ghostscript.com/releases/gsdnld.html)).
 - After installing, ensure the Ghostscript `bin` folder is in your system’s PATH. On Windows, this might look like: C:\Program Files\gs\gs10.05.0\bin
 - If needed, open **LangProg.py** in a text editor, then update the `gs_path` variable near the top of the file to match your Ghostscript install location.
 
